@@ -1,0 +1,21 @@
+{
+    "name": "memento/memento",
+    "description": "The aim of this project is to design and develop a responsive and dynamic portfolio website using PHP. The website will be used to showcase the work, skills, and achievements of an individual or a business. The website will be designed to attract potential clients or employers and make a strong impression on them.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Noise",
+            "email": "noise@example.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.1",
+        "monolog/monolog": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
