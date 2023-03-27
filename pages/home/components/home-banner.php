@@ -15,7 +15,7 @@
                     recusandae laudantium tempora ratione distinctio!.
                 </p>
 
-                <button class="cursor-pointer px-5 mx-5 sm:mx-32 xs:ox-32 w-[50%] sm:w-[13%] p-2 my-7 rounded-3xl pointer text-xl xs:text-xl md:text-xl text-dark bg-slate-100">
+                <button class="cursor-pointer px-5 mx-5 sm:mx-32 xs:mx-32 w-[50%] sm:w-[13%] p-2 my-7 rounded-3xl cursor-pointer text-xl xs:text-xl md:text-xl text-dark bg-slate-100 hover:bg-slate-300">
                     Learn More
                 </button>
             </div>
@@ -59,12 +59,12 @@
         
         <div class="absolute px-5 flex h-full w-full top-0 left-0">
             <div class="my-auto w-full flex justify-between">
-                <button onclick="prev()" class="bg-white p-3 rounded-full bg-oopacity-80 shadow-lg">
-                    <span class="iconify text-2xl" data-icon="material-symbols:arrow-circle-left-outline"></span>
+                <button onclick="prev()" class="bg-white p-3 rounded-full bg-opacity-80 shadow-lg">
+                    <span class="iconify text-3xl text-gray-800" data-icon="material-symbols:arrow-circle-left-outline"></span>
                 </button>
 
-                <button onclick="next()" class="bg-white p-3 rounded-full bg-oopacity-80 shadow-lg">
-                    <span class="iconify text-2xl" data-icon="material-symbols:arrow-circle-right-outline-rounded"></span>
+                <button onclick="next()" class="bg-white p-3 rounded-full bg-opacity-80 shadow-lg">
+                    <span class="iconify text-3xl text-gray-800" data-icon="material-symbols:arrow-circle-right-outline-rounded"></span>
                 </button>
             </div>
         </div>
