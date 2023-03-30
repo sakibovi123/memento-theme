@@ -13,5 +13,11 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.4/flowbite.min.js"></script>
 
   <link rel="icon" type="image/x-icon" href="https://flowbite.com/docs/images/logo.svg">
+  <link rel="stylesheet" href="assets/css/main.css">
+
+  <!-- fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oxygen&family=Roboto:wght@300;400&display=swap" rel="stylesheet">
 
 </head>
