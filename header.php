@@ -29,6 +29,7 @@
                     <a href="#" class="block py-2 pl-3 pr-4 text-gray-700 hover:bg-gray-500 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400  ">Contact</a>
                 </li>
             </ul>
+
         </div>
     </div>
     </nav>
