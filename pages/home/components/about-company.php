@@ -1,4 +1,4 @@
-<section class="w-full px-5 mb-12 block md:flex md:justify-between xl:w-8/12 xl:mx-auto xl:px-0">
+<section class="w-full px-5 mb-12 block md:flex md:justify-between xl:w-8/12 xl:mx-auto xl:px-0 mt-32">
 
   <!-- image part starts here -->
   <div class="image-container mb-5 md:w-5/12">
@@ -23,7 +23,7 @@
   <!-- image part ends here -->
 
   <!-- description part starts here -->
-  <div class="description-container md:w-6/12">
+  <div class="description-container md:w-6/12 2xl:w-5/12">
     <div class="about-company-text uppercase text-sm text-amber-500 font-semibold mb-2">
       about company
     </div>
@@ -71,7 +71,7 @@
     <div class="horizontal-line h-0.5 bg-gray-200 w-full mb-5"></div>
     
     <div class="description-footer block md:flex justify-between items-top">
-      <div class="description-footer-text font-semibold text-xl mb-5 sm:text-2xl md:w-7/12 md:text-lg lg:text-2xl xl:w-8/12">
+      <div class="description-footer-text font-semibold text-xl mb-5 sm:text-2xl md:w-7/12 md:text-lg lg:text-2xl xl:w-8/12 2xl:w-7/12">
         Think Creative Agency are a full-service design
       </div>
 
