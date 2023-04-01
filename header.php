@@ -1,7 +1,6 @@
 <?php include 'base.php';?>
 
-<body class="bg-slate-100 font-sans">
-<<<<<<<<< Temporary merge branch 1
+<body class="bg-slate-100">
     <nav class="bg-white border-gray-200 px-2 sm:px-4 py-2.5 w-[100%] xs:w-full">
     <div class="container flex flex-wrap items-center justify-between mx-auto">
         <a href="/" class="flex items-center">
@@ -15,37 +14,22 @@
         <div class="hidden w-full md:block md:w-auto" id="navbar-default">
             <ul class="flex flex-col p-4 mt-4 border md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-white">
                 <li>
-                    <a href="#" class="block py-2 pl-3 pr-4 text-gray-600 md:bg-transparent md:text-blue-700 md:p-0" aria-current="page">Home</a>
+                    <a href="#" class="block py-2 pl-3 pr-5 text-gray-700 md:bg-transparent md:text-blue-700 md:p-0" aria-current="page">Home</a>
                 </li>
                 <li>
-                    <a href="#" class="block py-2 pl-3 pr-4 text-gray-700 hover:bg-gray-500 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400">About</a>
+                    <a href="#" class="block py-2 pl-3 pr-5 text-gray-700 hover:bg-gray-500 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400">About</a>
                 </li>
                 <li>
-                    <a href="#" class="block py-2 pl-3 pr-4 text-gray-700 hover:bg-gray-500 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400  ">Services</a>
+                    <a href="#" class="block py-2 pl-3 pr-5 text-gray-700 hover:bg-gray-500 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400  ">Services</a>
                 </li>
                 <li>
-                    <a href="#" class="block py-2 pl-3 pr-4 text-gray-700 hover:bg-gray-500 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400  ">Pricing</a>
+                    <a href="#" class="block py-2 pl-3 pr-5 text-gray-700 hover:bg-gray-500 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400  ">Pricing</a>
                 </li>
                 <li>
-                    <a href="#" class="block py-2 pl-3 pr-4 text-gray-700 hover:bg-gray-500 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400  ">Contact</a>
+                    <a href="#" class="block py-2 pl-3 pr-5 text-gray-700 hover:bg-gray-500 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400  ">Contact</a>
                 </li>
             </ul>
-=========
-    <!-- <header class="flex items-center justify-between bg-white h-[8vh] shadow-md"> -->
-        <!-- <div class="logo-container">
-            <img class="w-[20%] ml-32" src="assets/logos/main-logo.png" alt="">
->>>>>>>>> Temporary merge branch 2
+
         </div>
-
-<<<<<<<<< Temporary merge branch 1
-=========
-        <div class="flex items-center justify-center mr-32 font-semibold text-lg text-slate-500">
-            <a href="" class="mr-7 hover:text-slate-900">Home</a>
-            <a href="" class="mr-7 hover:text-slate-900">Service</a>
-            <a href="" class="mr-7 hover:text-slate-900">About us</a>
-            <a href="" class="mr-7 hover:text-slate-900">Contact us</a>
-            <a href="" class="mr-7 hover:text-slate-900">Products</a>
-        </div> -->
-
-    <!-- </header> -->
->>>>>>>>> Temporary merge branch 2
+    </div>
+    </nav>
