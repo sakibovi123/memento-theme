@@ -2,13 +2,13 @@
     <div class="relative">
         <ul id="slider">
 
-        <li class="h-screen relative xs:h-[85vh] md:h-[85vh] lg:h-[85vh]">
+        <li class="h-screen relative xs:h-[90vh] md:h-[85vh] lg:h-[85vh]">
             <img class="h-full w-full object-fill" src="assets/images/Project-management-2.jpg" alt="">
-            <div class="absolute top-[30%] left-0 h-full w-full flex-col items-center justify-center">
-                <h2 class="text-2xl xs:text-3xl md:text-6xl font-bold text-white my-auto w-[100%] sm:w-[40%] mx-5 sm:mx-32 xs:mx-32 text-center sm:text-left">
+            <div class="absolute top-[30%] left-0 h-full w-full flex-col items-center justify-center my-[-70px]">
+                <h2 class="text-2xl xs:text-3xl md:text-4xl lg:text-4xl xl:text-7xl font-bold text-white my-auto w-[100%] sm:w-[40%] mx-5 sm:mx-32 xs:mx-32 text-center sm:text-left">
                     Creating the Atelier of Dreams Creating the Atelier.
                 </h2>
-                <p class="px-5 mx-5 sm:mx-32 xs:px-32 w-full sm:w-[40%] my-7 text-base xs:text-xl md:text-2xl text-white">
+                <p class="px-5 mx-5 sm:mx-32 xs:px-32 w-full sm:w-[40%] my-7 text-base xs:text-xl md:text-xl text-white">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Suscipit voluptatibus vero est officiis quisquam hic sint deleniti
                     cum tempore atque autem temporibus unde numquam repudiandae,

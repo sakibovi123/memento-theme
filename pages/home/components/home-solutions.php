@@ -10,6 +10,18 @@
 
   <!-- section description starts here -->
 
+<<<<<<<<< Temporary merge branch 1
+
+  <!-- Chat gpt -->
+  <div class="solution-tab-text-left flex flex-col md:flex-row items-center md:items-stretch justify-between mb-20">
+  <div class="text-part w-full md:w-5/12 md:pr-10">
+    <div class="head mb-3.5">
+      <span class="iconify inline-block text-5xl mr-3.5" data-icon="eos-icons:machine-learning-outlined"></span>
+      <span class="text-xl font-bold">e-Learning</span>
+    </div>
+
+    <div class="title capitalize mb-3.5 text-2xl font-semibold">
+=========
   <!-- section 1 -->
   <div class="solution-tab-text-left flex flex-col-reverse md:flex-column md:items-center justify-between mb-20 lg:flex-row ">
     <div class="text-part w-full md:w-10/12 lg:w-5/12 md:pr-10">
@@ -18,6 +30,7 @@
       <span class="capitalize font-bold text-xl">lorem ipsum</span>
     </div>
     <div class="title capitalize text-xl lg:mb-3.5 lg:text-2xl font-semibold">
+>>>>>>>>> Temporary merge branch 2
       AI-Powered cloud-based elearning system
     </div>
     <div class="text-base text-gray-600 leading-7 mb-3">
