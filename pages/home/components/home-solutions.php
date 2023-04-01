@@ -11,7 +11,6 @@
   <!-- section description starts here -->
 
 
-
   <!-- section 2 -->
   <div class="solution-tab-text-right flex flex-col md:flex-column items-center md:items-center justify-between mb-20 lg:flex-row">
     <div class="image-part w-full mb-6 md:w-10/12 lg:w-6/12">
