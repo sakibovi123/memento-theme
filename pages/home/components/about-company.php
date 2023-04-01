@@ -1,4 +1,4 @@
-<section class="w-full px-5 mb-12 block md:flex md:justify-between xl:w-8/12 xl:mx-auto xl:px-0 mt-32">
+<section class="w-full px-5 mb-12 block md:flex md:justify-between xl:w-8/12 xl:mx-auto xl:px-0 xl:my-32">
 
   <!-- image part starts here -->
   <div class="image-container mb-5 md:w-5/12">
