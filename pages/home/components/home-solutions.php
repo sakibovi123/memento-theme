@@ -10,6 +10,8 @@
 
   <!-- section description starts here -->
 
+<<<<<<< HEAD
+=======
 
 
   <!-- Chat gpt -->
@@ -77,6 +79,7 @@
     <img class="rounded-xl mx-auto md:ml-0 md:mr-auto" src="assets/logos/e-learning.jpg" alt="e-learning-image">
     </div>
   </div>
+>>>>>>> 95ead9043d49174a1eb10b48800e29048900b30b
 
   <!-- section 2 -->
   <div class="solution-tab-text-right flex flex-col md:flex-column items-center md:items-center justify-between mb-20 lg:flex-row">
