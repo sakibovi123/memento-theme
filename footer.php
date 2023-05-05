@@ -1,57 +1,52 @@
 <?php include 'base.php';?>
-    <footer class="footer-area">
-        <div class="main">
-            <div class="footer">
-                <div class="single-footer">
-                    <h4>about us</h4>
-
-                    <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam porro ut, vero expedita cupiditate dolores esse non, placeat harum, odio aliquam! Enim autem accusamus repellendus tempora laboriosam. Commodi, molestias dignissimos!
-                    </p>
-
-                    <div class="footer-social">
-                        <a href="">
-                          <span class="iconify" data-icon="uil:facebook-f"></span>
-                        </a>
-                        <a href="">
-                          <span class="iconify" data-icon="mdi:twitter"></span>
-                        </a>
-                        <a href="">
-                          <span class="iconify" data-icon="mdi:instagram"></span>
-                        </a>
-                        <a href="">
-                          <span class="iconify" data-icon="ri:linkedin-fill"></span>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="single-footer">
-                    <h4>main menu</h4>
-                    <ul>
-                        <li><a href=""><span class="iconify" data-icon="material-symbols:chevron-right-rounded"></span>home</a></li>
-                        <li><a href=""><span class="iconify" data-icon="material-symbols:chevron-right-rounded"></span>about us</a></li>
-                        <li><a href=""><span class="iconify" data-icon="material-symbols:chevron-right-rounded"></span>services</a></li>
-                        <li><a href=""><span class="iconify" data-icon="material-symbols:chevron-right-rounded"></span>gallery</a></li>
-                        <li><a href=""><span class="iconify" data-icon="material-symbols:chevron-right-rounded"></span>contact us</a></li>
-                    </ul>
-                </div>
-
-                <div class="single-footer">
-                  <h4>quick links</h4>
-                  <ul>
-                      <li><a href=""><span class="iconify" data-icon="material-symbols:chevron-right-rounded"></span>privacy policy</a></li>
-                      
-                      <li><a href=""><span class="iconify" data-icon="material-symbols:chevron-right-rounded"></span>terms and conditions</a></li>
-
-                      <li><a href=""><span class="iconify" data-icon="material-symbols:chevron-right-rounded"></span>disclaimer</a></li>
-
-                      <li><a href=""><span class="iconify" data-icon="material-symbols:chevron-right-rounded"></span>gallery</a></li>
-
-                      <li><a href=""><span class="iconify" data-icon="material-symbols:chevron-right-rounded"></span>contact us</a></li>
-                  </ul>
+<footer class="footer-area">
+  <div class="footer-wave-box">
+      <div class="footer-wave footer-animation"></div>
+  </div>
+  <div class="main">
+      <div class="footer">
+          <div class="single-footer">
+              <h4>about us</h4>
+              <p>Lorem ipsum dolor sit amet, di dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Excepteur sint qui officia deserunt Excepteur.</p>
+              <div class="footer-social">
+                  <a href=""><i class="fab fa-facebook-f"></i></a>
+                  <a href=""><i class="fab fa-twitter"></i></a>
+                  <a href=""><i class="fab fa-instagram"></i></a>
+                  <a href=""><i class="fab fa-linkedin-in"></i></a>
               </div>
-            </div>
-        </div>
-    </footer>
+          </div>
+          <div class="single-footer">
+              <h4>main menu</h4>
+              <ul>
+                  <li><a href=""><i class="fas fa-chevron-right"></i> home</a></li>
+                  <li><a href=""><i class="fas fa-chevron-right"></i> about us</a></li>
+                  <li><a href=""><i class="fas fa-chevron-right"></i> services</a></li>
+                  <li><a href=""><i class="fas fa-chevron-right"></i> gallery</a></li>
+                  <li><a href=""><i class="fas fa-chevron-right"></i> contact us</a></li>
+              </ul>
+          </div>
+          <div class="single-footer">
+              <h4>quick links</h4>
+              <ul>
+                  <li><a href=""><i class="fas fa-chevron-right"></i> privacy policy</a></li>
+                  <li><a href=""><i class="fas fa-chevron-right"></i> terms & conditions</a></li>
+                  <li><a href=""><i class="fas fa-chevron-right"></i> disclaimer</a></li>
+              </ul>
+          </div>
+          <div class="single-footer">
+              <h4>contact us</h4>
+              <ul>
+                  <li><a href=""><i class="fas fa-map-marker-alt"></i> North Street, Sydney, Australia</a></li>
+                  <li><a href=""><i class="fas fa-mobile-alt"></i> +88 0123 456 789</a></li>
+                  <li><a href=""><i class="far fa-envelope"></i> info@demo.com</a></li>
+                  <li><a href=""><i class="fas fa-globe-europe"></i> www.demo.com</a></li>
+              </ul>
+          </div>
+      </div>
+      <div class="copy">
+          <p>&copy; 2020 all rights reserved</p>
+      </div>
+  </div>
+</footer>
 </body>
 </html>
