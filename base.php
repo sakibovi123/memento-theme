@@ -14,6 +14,9 @@
 
   <link rel="icon" type="image/x-icon" href="https://flowbite.com/docs/images/logo.svg">
   <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="stylesheet" href="tailwind.css">
+  <link rel="stylesheet" href="assets/css/home-banner-animation.css">
+  <link rel="stylesheet" href="assets/css/footer.css">
 
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
