@@ -1,8 +1,8 @@
-<section>
+<section class="banner-img-section">
   <div class="mx-auto sm:w-11/12 sm:flex justify-around">
     <!-- image part -->
     <div id="image" class="sm:w-5/12 flex justify-center items-center">
-      <img class="" src="assets/images/mobile-mock.png" alt="">
+      <img class="h-[200px]" src="assets/images/mobile-mock.png" alt="">
     </div>
 
     <!-- text part -->
