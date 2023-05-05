@@ -11,7 +11,7 @@
 
         <div class="card-service-section flex flex-col sm:flex-row xs:flex-row items-center justify-center my-9">
 
-            <div class="card-service-body flex flex-col items-center justify-center text-center bg-white hover:bg-slate-900 p-5 hover:text-white cursor-pointer rounded-xl mr-4 mb-5 xs:mb-0 sm:mb-0 shadow-lg">
+            <div class="card-service-body flex flex-col items-center justify-center text-center bg-white hover:bg-slate-900 delay-100 duration-200 p-5 hover:text-white cursor-pointer rounded-xl mr-4 mb-5 xs:mb-0 sm:mb-0 shadow-lg">
                 <span class="iconify text-7xl text-gray-700 p-2" data-icon="akar-icons:headphone"></span>
                 <p class="text-3xl">
                     Privacy & Regulatory Compliance
@@ -21,7 +21,7 @@
                 </p>
             </div>
 
-            <div class="card-service-body flex flex-col items-center justify-center text-center bg-white hover:bg-slate-900 p-5 hover:text-white cursor-pointer rounded-xl mr-4 mb-5 xs:mb-0 sm:mb-0 shadow-lg">
+            <div class="card-service-body flex flex-col items-center justify-center text-center bg-white hover:bg-slate-900 delay-100 duration-200 p-5 hover:text-white cursor-pointer rounded-xl mr-4 mb-5 xs:mb-0 sm:mb-0 shadow-lg">
                 
                 <span class="iconify text-7xl text-gray-700 p-2" data-icon="fa:life-bouy"></span>
                 <p class="text-3xl">
@@ -32,7 +32,7 @@
                 </p>
             </div>
 
-            <div class="card-service-body flex flex-col items-center justify-center text-center bg-white hover:bg-slate-900 p-5 hover:text-white cursor-pointer rounded-xl mr-4 mb-5 xs:mb-0 sm:mb-0 shadow-lg">
+            <div class="card-service-body flex flex-col items-center justify-center text-center bg-white hover:bg-slate-900 delay-100 duration-200 p-5 hover:text-white cursor-pointer rounded-xl mr-4 mb-5 xs:mb-0 sm:mb-0 shadow-lg">
                 <span class="iconify text-7xl text-gray-700 p-2" data-icon="fa:forumbee"></span>
                 <p class="text-3xl">
                     Privacy & Regulatory Compliance
@@ -49,7 +49,7 @@
 
         <div class="card-service-section flex flex-col sm:flex-row xs:flex-row items-center justify-center my-9">
 
-        <div class="card-service-body flex flex-col items-center justify-center text-center bg-white hover:bg-slate-900 p-5 hover:text-white cursor-pointer rounded-xl mr-4 mb-5 xs:mb-0 sm:mb-0 shadow-lg">
+        <div class="card-service-body flex flex-col items-center justify-center text-center bg-white hover:bg-slate-900 delay-100 duration-200 p-5 hover:text-white cursor-pointer rounded-xl mr-4 mb-5 xs:mb-0 sm:mb-0 shadow-lg">
                 <span class="iconify text-7xl text-gray-700 p-2" data-icon="fa:linux"></span>
                 <p class="text-3xl">
                     Privacy & Regulatory Compliance
@@ -59,7 +59,7 @@
                 </p>
             </div>
 
-            <div class="card-service-body flex flex-col items-center justify-center text-center bg-white hover:bg-slate-900 p-5 hover:text-white cursor-pointer rounded-xl mr-4 mb-5 xs:mb-0 sm:mb-0 shadow-lg">
+            <div class="card-service-body flex flex-col items-center justify-center text-center bg-white hover:bg-slate-900 delay-100 duration-200 p-5 hover:text-white cursor-pointer rounded-xl mr-4 mb-5 xs:mb-0 sm:mb-0 shadow-lg">
                 <span class="iconify text-7xl text-gray-700 p-2" data-icon="fa:openid"></span>
                 <p class="text-3xl">
                     Privacy & Regulatory Compliance
@@ -69,7 +69,7 @@
                 </p>
             </div>
 
-            <div class="card-service-body flex flex-col items-center justify-center text-center bg-white hover:bg-slate-900 p-5 hover:text-white cursor-pointer rounded-xl mr-4 mb-5 xs:mb-0 sm:mb-0 shadow-lg">
+            <div class="card-service-body flex flex-col items-center justify-center text-center bg-white hover:bg-slate-900 delay-100 duration-200 p-5 hover:text-white cursor-pointer rounded-xl mr-4 mb-5 xs:mb-0 sm:mb-0 shadow-lg">
                 <span class="iconify text-7xl text-gray-700 p-2" data-icon="fa:reddit-alien"></span>
                 <p class="text-3xl">
                     Privacy & Regulatory Compliance
