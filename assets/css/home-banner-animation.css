@@ -33,7 +33,7 @@
 } */
 
 .banner-img-section img {
-  width: 100%;
+/*  width: 100%;*/
   animation: float 5s ease-in-out infinite;
 }
 

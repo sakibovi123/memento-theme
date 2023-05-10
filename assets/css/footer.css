@@ -1,12 +1,4 @@
-*{
-  margin:0;
-  padding:0;
-  box-sizing:border-box;
-}
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-body{
-  font-family: 'Poppins', sans-serif;
-}
+
 
 .footer-area {
 margin-top: 100px;
@@ -88,6 +80,7 @@ right: 0;
 width: 100%;
 overflow:hidden;
 }
+
 .footer-wave {
 background-image: url('assets/images/footer-shape.png');
 position: absolute;
